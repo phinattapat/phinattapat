@@ -11,6 +11,7 @@
     <img src="https://skillicons.dev/icons?i=git,c,python,html,css,javascript" />
   </a>
 </p>
+<!--
 ![Phinattapat's GitHub stats](https://github-readme-stats.vercel.app/api?username=phinattapat&show_icons=true&theme=radical)
 ![trophy](https://github-profile-trophy.vercel.app/?username=phinattapat&theme=onedark)
-
+-->
