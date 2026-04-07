@@ -1,18 +1,31 @@
-## Hi there 👋
+<div align="center">
+  
+  # Hi there 👋, I'm Phinattapat!
+  
+  **Student @ Suankularb Wittayalai | Aspiring Developer**
+  
+  [![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-d45d5d?logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/N4N41XESQP)
 
-<!--
-**phinattapat/phinattapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-🎒 I’m currently learning at suankularb-wittiyalai
-📝 Learning → software-development, web-development, embedded
--->
+<br/>
+
+### 👨‍💻 About Me
+- 🎒 I’m currently studying at **Suankularb Wittayalai**.
+- 📝 I am actively learning and building projects in **Software Development**, **Web Development**, and **Embedded Systems**.
+- 🚀 Always exploring new technologies and looking to level up my coding skills.
+
+<br/>
+
+### 🛠️ My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,python,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=git,c,python,html,css,javascript" alt="My Skills" />
   </a>
 </p>
-<!--
-![Phinattapat's GitHub stats](https://github-readme-stats.vercel.app/api?username=phinattapat&show_icons=true&theme=radical)
-![trophy](https://github-profile-trophy.vercel.app/?username=phinattapat&theme=onedark)
--->
-<iframe id='kofiframe' src='https://ko-fi.com/phinattapat/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='phinattapat'></iframe>
+
+<br/>
+
+<div align="center">
+  <i>Thanks for visiting my profile! Let's connect and build something awesome.</i>
+</div>
